@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Danylo 👋
 
-<!--
-**danylo-voloshko/danylo-voloshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a technical background (TUKE) and a strong analytical mindset.
+I work on automation and data-driven analysis, and I like building simple, reliable tooling that helps validate results and improve workflows.
 
-Here are some ideas to get you started:
+### Strengths
+- Analytical thinking, attention to detail, process optimization
+- Python scripts for automation (data/logs/report processing, metrics, small tools)
+- Testing mindset: validating inputs/outputs, negative scenarios, clear bug reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured project
+- **FastAPI File Service + QA artifacts**: https://github.com/danylo-voloshko/fastapi-file-service
+
+### Location
+Slovakia
