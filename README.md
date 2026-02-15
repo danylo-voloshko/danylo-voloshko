@@ -11,5 +11,7 @@ I work on automation and data-driven analysis, and I like building simple, relia
 ### Featured project
 - **FastAPI File Service + QA artifacts**: https://github.com/danylo-voloshko/fastapi-file-service
 
+### Portfolio of major completed projects
+- **Google Drive** : https://drive.google.com/drive/folders/1rqJxgBvXH-GPAtIy68uA3wPuHgKUQpVn?dmr=1&ec=wgc-drive-hero-goto
 ### Location
 Slovakia
