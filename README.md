@@ -8,8 +8,11 @@ I work on automation and data-driven analysis, and I like building simple, relia
 - Python scripts for automation (data/logs/report processing, metrics, small tools)
 - Testing mindset: validating inputs/outputs, negative scenarios, clear bug reporting
 
-### Featured project
-- **FastAPI File Service + QA artifacts**: https://github.com/danylo-voloshko/fastapi-file-service
+### Featured projects
+- **FastAPI File Service + QA artifacts**:
+  Repo: https://github.com/danylo-voloshko/fastapi-file-service
+- **Mini SQL Pipeline (Python + PostgreSQL)** — ETL demo: CSV → raw → clean, data validation, PnL/duration metrics, SQL queries (JOIN, GROUP BY/HAVING, window functions), index + `EXPLAIN ANALYZE`.
+  Repo: https://github.com/danylo-voloshko/python-postgres-sql-pipeline
 
 ### Portfolio of major completed projects
 - **Google Drive** : https://drive.google.com/drive/folders/1rqJxgBvXH-GPAtIy68uA3wPuHgKUQpVn?dmr=1&ec=wgc-drive-hero-goto
